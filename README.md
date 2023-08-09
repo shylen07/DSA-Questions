@@ -1,7 +1,2 @@
 # DSA-Questions
-
-Array
-String 
-Stack
-queue
-Linked-List
+Dsa important problems Beginner to Intermediate

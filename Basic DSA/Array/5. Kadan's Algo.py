@@ -1,7 +1,6 @@
 #max subarray sum
 def kadane(arr,n):
-    current_sum = 0
-    max_sum = 0
+    current_sum ,max_sum = 0,0
     for i in range(n):
         current_sum +=arr[i]
         if current_sum > max_sum:
